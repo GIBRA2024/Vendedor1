@@ -1,9 +1,8 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Catalina Jimenez
-TEL:3176716707
-EMAIL: catalina77764@gmail.com
+FN:Andres Risso
+TEL:+57 3105756867
 EMAIL;type=work: gerencia@gibracompany.com
 END:VCARD`;
 
